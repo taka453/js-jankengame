@@ -1,0 +1,46 @@
+body {
+    background: #4DF9B9;
+}
+
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #FFFFEE;
+    margin-top: 100px;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.input-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-group img {
+    max-width: 150px;
+    width: 100%;
+    height: 15vh;
+}
+
+.result  {
+    text-align: center;
+}
+
+.result p {
+    font-size: 30px;
+}
+
+.input-control {
+    padding: 10px;
+    width: 40%;
+    text-align: center;
+}
+
+.btn {
+    padding: 8px;
+    border-radius: 6px;
+}
+
